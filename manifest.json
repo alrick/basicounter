@@ -1,0 +1,9 @@
+{
+    "id": "basicounter",
+    "name": "Basic counter for Obsidian",
+    "version": "0.1.0",
+    "description": "A simple counter plugin for Obsidian.",
+    "author": "Alrick",
+    "minAppVersion": "0.9.20",
+    "main": "main.js"
+}
